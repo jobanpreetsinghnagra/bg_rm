@@ -1,5 +1,6 @@
 python == 3.13.5
-gradio
-Pillow
-rembg
 numpy
+pandas
+pillow
+rembg
+gradio
